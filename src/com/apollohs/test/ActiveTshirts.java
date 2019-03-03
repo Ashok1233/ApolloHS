@@ -29,6 +29,9 @@ public class ActiveTshirts extends BaseTest {
 		ap.clickOnPlaceOrder1();
 		
 		
+		System.out.println("Hi Ashok pull it to Eclipse now")
+		
+		
 		
 		
 	}
