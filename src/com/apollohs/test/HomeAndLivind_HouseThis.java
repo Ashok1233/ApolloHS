@@ -19,6 +19,8 @@ public class HomeAndLivind_HouseThis extends BaseTest {
 	Thread.sleep(2000);
 	ht.clickOnGotocart();
 	
+	System.out.println("Home and Print of the college and Principal");
+	
 	
 	
 		
